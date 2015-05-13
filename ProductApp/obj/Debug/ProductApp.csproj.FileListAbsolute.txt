@@ -1,0 +1,9 @@
+E:\SEIP_Practice\ProductApp\ProductApp\bin\Debug\ProductApp.exe.config
+E:\SEIP_Practice\ProductApp\ProductApp\bin\Debug\ProductApp.exe
+E:\SEIP_Practice\ProductApp\ProductApp\bin\Debug\ProductApp.pdb
+E:\SEIP_Practice\ProductApp\ProductApp\obj\Debug\ProductApp.csprojResolveAssemblyReference.cache
+E:\SEIP_Practice\ProductApp\ProductApp\obj\Debug\ProductApp.ProductUi.resources
+E:\SEIP_Practice\ProductApp\ProductApp\obj\Debug\ProductApp.Properties.Resources.resources
+E:\SEIP_Practice\ProductApp\ProductApp\obj\Debug\ProductApp.csproj.GenerateResource.Cache
+E:\SEIP_Practice\ProductApp\ProductApp\obj\Debug\ProductApp.exe
+E:\SEIP_Practice\ProductApp\ProductApp\obj\Debug\ProductApp.pdb
